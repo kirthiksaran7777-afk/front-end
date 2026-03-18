@@ -4,6 +4,7 @@ responsive photo gallery demo-https://github.com/kirthiksaran7777-afk/front-end/
 college notice board demo-https://github.com/kirthiksaran7777-afk/front-end/blob/main/college%20notice%20board.html<br>
 flexbox demo-https://github.com/kirthiksaran7777-afk/front-end/blob/main/flexbox.html<br>
 login page demo-https://github.com/kirthiksaran7777-afk/front-end/blob/main/login.html,https://github.com/kirthiksaran7777-afk/front-end/blob/main/landing.html<br>
-navigation bar demo - https://github.com/kirthiksaran7777-afk/front-end/blob/main/navigationbar.html
+navigation bar demo - https://github.com/kirthiksaran7777-afk/front-end/blob/main/navigationbar.html<br>
+hover effects demo - 
 
 
