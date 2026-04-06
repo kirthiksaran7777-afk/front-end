@@ -8,6 +8,8 @@ navigation bar demo - https://github.com/kirthiksaran7777-afk/front-end/blob/mai
 hover effects demo - https://github.com/kirthiksaran7777-afk/front-end/blob/main/hovereffects.html<br>
 form validation demo - https://github.com/kirthiksaran7777-afk/front-end/blob/main/form%20validation.html<br>
 javascript calculator demo - https://github.com/kirthiksaran7777-afk/front-end/blob/main/JAVASCRIPTCALCULATOR.HTML<BR>
-DIGITAL CLOCK DEMO - https://github.com/kirthiksaran7777-afk/front-end/blob/main/digital%20clock.html
+DIGITAL CLOCK DEMO - https://github.com/kirthiksaran7777-afk/front-end/blob/main/digital%20clock.html<BR>
+TO DO LIST - https://github.com/kirthiksaran7777-afk/front-end/blob/main/todolist.html
+
 
 
