@@ -12,6 +12,7 @@ DIGITAL CLOCK DEMO - https://github.com/kirthiksaran7777-afk/front-end/blob/main
 TO DO LIST - https://github.com/kirthiksaran7777-afk/front-end/blob/main/todolist.html<BR>
 EVENT HANDLING - https://github.com/kirthiksaran7777-afk/front-end/blob/main/event%20handling.html<br>
 website - https://github.com/kirthiksaran7777-afk/front-end/blob/main/website.html<br>
+RESPONSIVE WEBSITE-https://github.com/kirthiksaran7777-afk/front-end/blob/main/responsivewebsite.html
 
 
 
